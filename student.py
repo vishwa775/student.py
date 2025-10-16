@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+usn = input("Enter your USN: ")
+division = input("Enter your division: ")
+print("\n--- User Details ---")
+print(f"Name: {name}")
+print(f"USN: {usn}")
+print(f"Address: {division}")
