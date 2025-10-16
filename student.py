@@ -1,6 +1,7 @@
 name = input("Enter your name: ")
 usn = input("Enter your USN: ")
 division = input("Enter your division: ")
+subjects = input("Enter your subjects :")
 print("\n--- User Details ---")
 print(f"Name: {name}")
 print(f"USN: {usn}")
